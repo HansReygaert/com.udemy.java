@@ -1,4 +1,4 @@
-package com.udemy.section8.arrayList;
+package com.udemy.section8.arrayList.MobilePhone;
 
 import java.util.ArrayList;
 import java.util.List;

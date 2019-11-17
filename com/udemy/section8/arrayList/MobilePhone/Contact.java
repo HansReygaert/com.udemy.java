@@ -1,4 +1,4 @@
-package com.udemy.section8.arrayList;
+package com.udemy.section8.arrayList.MobilePhone;
 
 public class Contact
 {
